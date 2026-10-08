@@ -1,11 +1,12 @@
-# Hi there 👋, I'm Ahad (@ahad00990)
+# Hi there 👋, I'm Ac4d (@Ac4dAnonymous) 🕵️‍♂️
 
-I'm a tech entrepreneur and Python developer. I manage hardware and gaming ventures like **APPLE CLINIC** and **Gamers Store BD**, while building automated software tools and creative scripts.
+I'm a tech entrepreneur and Python developer operating behind the scenes. I manage the gaming venture **Gamers Store BD**, while building automated software tools, custom extensions, and stealthy scripts.
 
 ### 👨‍💻 What I'm Building & Doing
 - 🐍 **Python Scripts:** Developing custom automation tools, data formatters, and creative terminal scripts (like typewriter-effect lyric animations).
+- 🧩 **Automation & Custom Extensions:** Creating custom browser/software extensions and automated workflows to streamline operations and enhance capabilities.
 - 🤖 **Telegram Bots:** Building and deploying functional service bots, including automated delivery tools for gaming subscriptions like PUBG Mobile.
-- 🛠️ **Hardware & Systems:** Troubleshooting PC hardware, optimizing OS boot processes, and managing inventory configurations.
+- 🛠️ **Hardware & Systems:** Deep-diving into PC hardware troubleshooting and optimizing operating system boot processes.
 - 🎨 **Brand Design:** Designing visual brand identities, invoice layouts, and transparent logos for ventures like *Perfectify*.
 
 ### 🧰 Tech Stack & Tools
@@ -16,9 +17,9 @@ I'm a tech entrepreneur and Python developer. I manage hardware and gaming ventu
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahad00990&show_icons=true&theme=tokyonight&hide_border=true" alt="ahad00990's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ac4dAnonymous&show_icons=true&theme=tokyonight&hide_border=true" alt="Ac4dAnonymous's GitHub Stats" />
 </div>
 
 ### 📫 Let's Connect
-- **Tech & Hardware:** Drop by APPLE CLINIC for mobile devices, PC components, and gadgets.
-- **Gaming:** Check out Gamers Store BD.
+- **Gaming Hub:** Check out **Gamers Store BD**.
+- **Status:** Building in the shadows.
