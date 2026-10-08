@@ -1,4 +1,4 @@
-# Hi there 👋, I am just Ac4d the Anonymous 🕵️‍♂️
+# I am Ac4d the Anonymous 🕵️‍♂️
 
 Operating behind the scenes. You can call me a Dev powered by AI [HAHAH] 🤖. I build my projects using AI agents to craft automated software tools, custom extensions, and stealthy scripts.
 
@@ -22,4 +22,4 @@ Operating behind the scenes. You can call me a Dev powered by AI [HAHAH] 🤖. I
 
 ### 📫 Status
 - Building in the shadows.
-- 
+  
