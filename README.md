@@ -2,11 +2,15 @@
 
 Operating behind the scenes. You can call me a Dev powered by AI [HAHAH] 🤖. I build my projects using AI agents to craft automated software tools, custom extensions, and stealthy scripts.
 
+### 🚀 My Projects & Achievements
+- ✅ **Telegram Gift Card Seller Bot:** [COMPLETED] Fully automated storefront and delivery system built for Telegram.
+- 🛂 **Visa Status Checker Bot:** Automated tracking and notification tool to monitor visa updates.
+- 🎟️ **Automated Booking Helper:** Custom scripting to streamline and automate booking workflows.
+
 ### 👨‍💻 What I'm Doing
 - 🧠 **AI-Driven Development:** Leveraging AI agents to build, write, and deploy full projects.
 - 🐍 **Scripts:** Developing custom Python automation tools and terminal animations.
 - 🧩 **Extensions:** Creating custom browser and software extensions to streamline operations.
-- 🤖 **Bots:** Building and deploying functional service bots via the Telegram API.
 - 🛠️ **Systems:** Deep-diving into PC hardware troubleshooting and OS optimization.
 
 ### 🧰 Tech Stack
@@ -22,4 +26,3 @@ Operating behind the scenes. You can call me a Dev powered by AI [HAHAH] 🤖. I
 
 ### 📫 Status
 - Building in the shadows.
-  
