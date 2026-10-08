@@ -1,15 +1,15 @@
-# Hi there 👋, I'm Ac4d (@Ac4dAnonymous) 🕵️‍♂️
+# Hi there 👋, I am just Ac4d the Anonymous 🕵️‍♂️
 
-I'm a tech entrepreneur and Python developer operating behind the scenes. I manage the gaming venture **Gamers Store BD**, while building automated software tools, custom extensions, and stealthy scripts.
+Operating behind the scenes. You can call me a Dev powered by AI [HAHAH] 🤖. I build my projects using AI agents to craft automated software tools, custom extensions, and stealthy scripts.
 
-### 👨‍💻 What I'm Building & Doing
-- 🐍 **Python Scripts:** Developing custom automation tools, data formatters, and creative terminal scripts (like typewriter-effect lyric animations).
-- 🧩 **Automation & Custom Extensions:** Creating custom browser/software extensions and automated workflows to streamline operations and enhance capabilities.
-- 🤖 **Telegram Bots:** Building and deploying functional service bots, including automated delivery tools for gaming subscriptions like PUBG Mobile.
-- 🛠️ **Hardware & Systems:** Deep-diving into PC hardware troubleshooting and optimizing operating system boot processes.
-- 🎨 **Brand Design:** Designing visual brand identities, invoice layouts, and transparent logos for ventures like *Perfectify*.
+### 👨‍💻 What I'm Doing
+- 🧠 **AI-Driven Development:** Leveraging AI agents to build, write, and deploy full projects.
+- 🐍 **Scripts:** Developing custom Python automation tools and terminal animations.
+- 🧩 **Extensions:** Creating custom browser and software extensions to streamline operations.
+- 🤖 **Bots:** Building and deploying functional service bots via the Telegram API.
+- 🛠️ **Systems:** Deep-diving into PC hardware troubleshooting and OS optimization.
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -20,6 +20,6 @@ I'm a tech entrepreneur and Python developer operating behind the scenes. I mana
   <img src="https://github-readme-stats.vercel.app/api?username=Ac4dAnonymous&show_icons=true&theme=tokyonight&hide_border=true" alt="Ac4dAnonymous's GitHub Stats" />
 </div>
 
-### 📫 Let's Connect
-- **Gaming Hub:** Check out **Gamers Store BD**.
-- **Status:** Building in the shadows.
+### 📫 Status
+- Building in the shadows.
+- 
